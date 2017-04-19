@@ -1,0 +1,25 @@
+body {
+	font-family: 'Roboto', Arial, sans-serif;
+	padding: 20px;
+	color: #b8bfc8;
+	background-color: #2B2B2B;
+}
+
+.itsawrap {
+	
+}
+
+.container {
+	width: 530px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.slot {
+	width: 71px;
+	height: 100px;
+	outline: dotted 1px #444;
+	border-radius: 5px;
+	margin: 0px 10px 10px 0px;
+	background-size: cover;
+}
